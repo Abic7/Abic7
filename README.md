@@ -17,6 +17,9 @@ Curious, experimental, and always open to new challenges!
 
 ## 🛠️ Projects
 
+- [Crime Analysis ChatBot](https://github.com/Abic7/Victoria-Crime-chatbot)  
+  LocalLLM chatbot that can answere questions about crime data.
+
 - [NMI Electricity Usage Analytics](https://github.com/Abic7/NMI_Electricity_Usage_Analytics)  
   Analytics project exploring electricity usage data.
 
