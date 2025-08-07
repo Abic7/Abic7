@@ -8,8 +8,7 @@ Welcome to my GitHub! I'm a passionate data professional with years of experienc
 
 - **Role:** Senior BI Developer
 - **Skills:** SQL, Python
-- **Favorite Quote:**  
-  > "I have not failed. I've just found 10,000 ways that won't work." — Thomas Edison
+- **Favorite Quote:**"I have not failed. I've just found 10,000 ways that won't work." — Thomas Edison
 
 ## 🌱 Current Focus
 
