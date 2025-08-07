@@ -1,4 +1,4 @@
-# Hi there, I'm Abic7 👋
+# Hi there, I'm Abi 👋
 
 **Senior BI Analyst | Pivoting to AI**
 
