@@ -2,12 +2,12 @@
 
 **Analytics & Automation | Pivoting to AI**
 
-Welcome to my GitHub! I'm a passionate data professional with years of experience in business intelligence, now diving deeper into the world of Artificial Intelligence. My toolkit is powered by **SQL** and **Python**, and I'm always eager to leverage data creatively.
+Welcome to my GitHub! I'm a passionate data & ai professional with years of experience in business intelligence and automation, now diving deeper into the world of Artificial Intelligence. My toolkit is powered by **SQL**, **Python** and the **AZURE** Stack and I'm always eager to leverage data creatively.
 
 ## 🚀 About Me
 
-- **Role:** Senior BI Developer
-- **Skills:** SQL, Python
+- **Role:** AI & Automation Developer
+- **Skills:** SQL, Python, Azure
 - **Favorite Quote:**I have not failed. I've just found 10,000 ways that won't work. — Thomas Edison
 
 ## 🌱 Current Focus
