@@ -1,6 +1,6 @@
 # Hi there, I'm Abi 👋
 
-**Senior BI Analyst | Pivoting to AI**
+**Analytics & Automation | Pivoting to AI**
 
 Welcome to my GitHub! I'm a passionate data professional with years of experience in business intelligence, now diving deeper into the world of Artificial Intelligence. My toolkit is powered by **SQL** and **Python**, and I'm always eager to leverage data creatively.
 
