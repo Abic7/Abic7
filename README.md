@@ -23,16 +23,16 @@ Curious, experimental, and always open to new challenges!
 - [FinBuddy](https://github.com/Abic7/finbuddy_agents)
   FinBuddy is a modular, multi-agent, LLM-powered financial analysis system designed to transform raw banking transaction files into categorized data, behavioral insights, personalized recommendations.
   
-- [Crime Analysis ChatBot](https://github.com/Abic7/Victoria-Crime-chatbot)  
+- [Crime Analysis ChatBot](https://github.com/Abic7/Victoria-Crime-chatbot)
   LocalLLM chatbot that can answere questions about crime data.
 
-- [NMI Electricity Usage Analytics](https://github.com/Abic7/NMI_Electricity_Usage_Analytics)  
+- [NMI Electricity Usage Analytics](https://github.com/Abic7/NMI_Electricity_Usage_Analytics)
   Analytics project exploring electricity usage data.
 
-- [Boot-on-Power-Android](https://github.com/Abic7/Boot-on-Power-Android)  
+- [Boot-on-Power-Android](https://github.com/Abic7/Boot-on-Power-Android)
   Android project to enable boot-on-power functionality.
 
-- [WebScraper](https://github.com/Abic7/WebScraper)  
+- [WebScraper](https://github.com/Abic7/WebScraper)
   Python-based web scraping utilities.
 
 ## 🌐 Connect with Me
