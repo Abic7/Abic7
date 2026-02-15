@@ -20,7 +20,7 @@ Curious, experimental, and always open to new challenges!
 - [Pizza Judge](https://github.com/Abic7/ai_pizza_judge)
   The worlds best* pizza critic judging the pizza without even having any taste buds 
 
-- [FinBuddy](https://github.com/Abic7/finbuddy_agents)  
+- [FinBuddy](https://github.com/Abic7/finbuddy_agents)
   FinBuddy is a modular, multi-agent, LLM-powered financial analysis system designed to transform raw banking transaction files into categorized data, behavioral insights, personalized recommendations.
   
 - [Crime Analysis ChatBot](https://github.com/Abic7/Victoria-Crime-chatbot)  
