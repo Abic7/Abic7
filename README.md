@@ -25,6 +25,9 @@ Curious, experimental, and always open to new challenges!
   
 - [Crime Analysis ChatBot](https://github.com/Abic7/Victoria-Crime-chatbot)
   LocalLLM chatbot that can answere questions about crime data.
+  
+- [PropertyAnalytics](https://github.com/Abic7/PropertyAnalytics)
+  This project tries to understand the relationship of the average property value across Victoria and how its impacted by various external factors.
 
 - [NMI Electricity Usage Analytics](https://github.com/Abic7/NMI_Electricity_Usage_Analytics)
   Analytics project exploring electricity usage data.
