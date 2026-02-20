@@ -1,0 +1,55 @@
+AI & AUTOMATION SPECIALIST
+Hands-on automation builder with 5+ years in process engineering and data integration, including 3 years intensely focused on AI/automation delivery. I design and build workflows that remove operational friction mapping processes, writing PRDs, building n8n/Power Automate orchestrations, integrating APIs, implementing AI agents, and driving adoption through training and documentation. Recently eliminated 129+ hours/week of manual work (~$470K annualized) and reduced operational load by ~4.5 FTE through scalable automation across enterprise systems. Strong technical foundation in workflow orchestration, API integration, SQL, AI/LLM implementation, and secure automation design.
+
+CORE SKILLS
+•	Workflow Automation: n8n (self-hosted), Power Automate, Power Apps, Zapier equivalents, orchestration design.
+•	Process Analysis: As-Is/To-Be workflow mapping, bottleneck identification, process optimization, requirements gathering.
+•	API Integration: REST APIs, webhooks, OAuth/service accounts, system-to-system connections.
+•	AI/LLM: Copilot agents, GPT workflows, prompt engineering, context management, tokens/limits.
+•	Technical Docs: PRDs, test cases, UAT scripts, how-to guides, runbooks, training materials.
+•	Data & SQL: SQL querying, database schemas, data modelling, Power BI, Synapse SQL.
+
+RELEVANT EXPERIENCE
+Automation & Analytics Lead (Senior IC) Accenture + Telstra (Joint Venture) | Remote April 2025 – Present
+•	Built and deployed 90+ workflow automations using Power Automate file movement, scheduled triggers, approval routing, notifications, alerting, and data refresh orchestration eliminating 129+ hours/week of manual operational effort (~$470K annualized) and reducing operational load by ~4.5 FTE
+•	Ran weekly operational deep-dives with Finance, Sales, Customer Service, and Legal stakeholders mapped As-Is workflows, identified bottlenecks, designed To-Be processes, and translated requirements into automation-ready specifications
+•	Wrote detailed Product Requirement Documents, test cases, and UAT scripts for every automation defined success parameters, edge cases, failure handling, and rollback procedures ensuring reliable production deployment
+•	Designed end-to-end automation pipeline: Power App → Excel → SharePoint → Synapse SQL ingestion → dataflow refresh → Power BI refresh + Q&A enabling self-service analytics and removing all manual refresh steps
+•	Built 2 AI Copilot agents using GPT/LLM integration: (1) BA agent automating requirements gathering and test case generation (~3 hours/day saved), (2) Excel-to-dashboard agent replacing manual 6-hour/day operational process with fully automated workflow
+•	Integrated systems via REST APIs, webhooks, and OAuth/service accounts connected Power Automate to SharePoint (on-prem gateways), Synapse SQL, Power BI APIs, Microsoft Graph, and custom internal APIs
+•	Wrote SQL queries daily to validate data schemas, test pipeline outputs, troubleshoot integration failures, and ensure automation was processing data correctly before production release
+•	Produced adoption materials for every automation launched how-to guides, runbooks, onboarding docs, video walkthroughs and delivered 34+ training sessions ensuring teams actually used what was built
+•	Established bug reporting system post-launch enabling users to flag issues via Teams channel-maintained backlog of improvements, prioritized by impact, and iterated on automation based on user feedback
+Lead Data Analyst – Digital Transformation Telstra Corporation Limited | Remote Sept 2023 – April 2025
+•	Built automated dashboards and recurring performance reporting workflows reduced manual reporting effort by ~15 hours/week and cut insight latency by ~1 day through Power BI automation and SQL query optimization
+•	Partnered with data engineering to design ETL processes and data pipelines reduced processing time from ~6 hours to ~4 hours (33% improvement) by optimizing SQL queries and redesigning data flow architecture
+•	Integrated GPT tools to augment insight delivery-built prompt libraries for automated variance commentary, exception summaries, and trend analysis replacing manual analyst write-ups
+Senior Data Analyst – Data, AI & Automation Telstra Corporation Limited | Remote 2022 – 2023
+•	Built automation-first analytics workflows improving operational efficiency by ~40% created Power Automate flows connecting data sources, triggering refreshes, and automating recurring reports
+•	Wrote weekly PRDs, user stories, test cases, and UAT scripts translating stakeholder requirements into delivery-ready technical specifications for development teams
+•	Mentored junior analysts on automation patterns, reusable code libraries, and documentation standards improved team productivity by ~25% through knowledge sharing
+Data Analyst/Engineer – Telstra Global Finance | On Site 2015 – 2022
+•	Led solution design, testing, and deployment for financial decision-system changes gathered requirements from Finance/Legal/Operations, wrote technical specifications, designed test cases, led UAT, and deployed automation improvements
+•	Built automation reducing manual payment processes by ~30% implemented workflows for fraud detection, payment validation, and exception handling improving cycle time and operational risk
+•	Partnered cross-functionally with Finance, IT, Legal, and Fraud teams identified data quality gaps, designed automation solutions, and improved trust in financial outputs through better controls
+Earlier Career: Process Analysis & Automation Roles Bunnings, Goodyear, IBM | 2011 – 2015
+•	Bunnings (2014-2015): Ran workshops with senior stakeholders, mapped As-Is/To-Be processes, delivered $1.5M savings through process optimization and workflow automation
+•	Goodyear (2013-2014): Built invoice automation integrating POS with SAP, franchise fee calculator, automated campaign tracking eliminating manual data entry and improving system integrity
+•	IBM (2011-2013): Designed end-to-end contract automation reducing processing time 60%, implemented data validation achieving 40% error reduction, eliminated 75% manual data entry through system integration
+
+AI/LLM PRACTICAL EXPERIENCE
+•	Built 2 production grade Copilot agents (NDA Applicable):
+		BA agent (requirements/test case generation), E2E Automation of the BA functionality utilizing BABOK. 
+		Excel-to-BI agent (end-to-end process automation) utilizing CoPilot Agents
+•	Created GPT workflows for automated summarization, variance commentary, exception reporting, and insight generation.
+•	Developed reusable prompt libraries with context management, token optimization, and controlled output formats.
+•	Functional understanding of LLM mechanics: prompting strategies, token limits, context windows, temperature settings, and when LLMs add value vs. when traditional automation is better
+
+SECURITY & PRIVACY EXPERIENCE
+•	Designed automation in PII-heavy environments with privacy-by-design principles, RBAC, audit logging, and data minimization.
+•	Implemented automation aligned with Australian Privacy Principles (APP) and GDPR concept’s purpose limitation, controlled access, retention policies.
+•	Worked with Legal, Risk, and Compliance teams ensuring automation didn't introduce new security or trust gaps particularly relevant for vendor risk and security posture contexts.
+
+EDUCATION
+•	Advanced Data Analytics & Machine Learning   University of Technology Sydney
+•	Master of Information Technology   Deakin University
