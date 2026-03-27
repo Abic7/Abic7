@@ -1,21 +1,23 @@
 # Hi there, I'm Abi 👋
 
-**Analytics & Automation | Pivoting to AI**
+**Analytics & Automation Leader | Building on AI**
 
 Welcome to my GitHub! I'm a passionate data & ai professional with years of experience in business intelligence and automation, now diving deeper into the world of Artificial Intelligence. My toolkit is powered by **SQL**, **Python** and the **AZURE** Stack and I'm always eager to leverage data creatively.
 
 ## 🚀 About Me
 
-- **Role:** AI & Automation Developer
+- **Role:** AI & Automation Lead
 - **Skills:** SQL, Python, Azure
 - **Favorite Quote:**I have not failed. I've just found 10,000 ways that won't work. — Thomas Edison
 
 ## 🌱 Current Focus
 
-I'm actively learning and building in AI, expanding my skill set beyond BI.  
+I'm actively learning and building on AI, expanding my skill set beyond BI.  
 Curious, experimental, and always open to new challenges!
 
 ## 🛠️ Projects
+- [MadeRedundant.org](https://www.maderedundant.org/)
+  Production data pipeline ingesting global layoff data from GDELT, RSS feeds, and US WARN Act filings, extracting structured records via LLM classification, and persisting to a PostgreSQL store. Demonstrates multilingual ETL across heterogeneous sources, era-aware AI confidence scoring (genuine / washing / restructure), server-side deduplication, and a live React dashboard with full-text search, choropleth mapping, and paginated server-filtered queries.
 
 - [Pizza Judge](https://github.com/Abic7/ai_pizza_judge)
   The worlds best* pizza critic judging the pizza without even having any taste buds 
