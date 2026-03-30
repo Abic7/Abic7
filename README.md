@@ -19,7 +19,7 @@ Curious, experimental, and always open to new challenges!
 - [MadeRedundant.org](https://www.maderedundant.org/)
   Production data pipeline ingesting global layoff data from GDELT, RSS feeds, and US WARN Act filings, extracting structured records via LLM classification, and persisting to a PostgreSQL store. Demonstrates multilingual ETL across heterogeneous sources, era-aware AI confidence scoring (genuine / washing / restructure), server-side deduplication, and a live React dashboard with full-text search, choropleth mapping, and paginated server-filtered queries.
 
-- [Pizza Judge](https://github.com/Abic7/ai_pizza_judge)
+- [Pizza Judge](https://ai-pizza-judge.vercel.app/)
   The worlds best* pizza critic judging the pizza without even having any taste buds 
 
 - [FinBuddy](https://github.com/Abic7/finbuddy_agents)
