@@ -19,6 +19,10 @@ Curious, experimental, and always open to new challenges!
 - [MadeRedundant.org](https://www.maderedundant.org/)
   Production data pipeline ingesting global layoff data from GDELT, RSS feeds, and US WARN Act filings, extracting structured records via LLM classification, and persisting to a PostgreSQL store. Demonstrates multilingual ETL across heterogeneous sources, era-aware AI confidence scoring (genuine / washing / restructure), server-side deduplication, and a live React dashboard with full-text search, choropleth mapping, and paginated server-filtered queries.
 
+- [Job Hunt AI](https://job-tracking-ai.vercel.app/)
+  A full-stack, production-deployed dashboard that automatically tracks your job search in real time. Emails from your Gmail inbox are processed twice daily by Claude AI, classified into pipeline stages, and written to Google Sheets with zero manual data entry.
+Unauthenticated visitors see a live demo with realistic mock data. Authenticated users see their real pipeline.
+
 - [Pizza Judge](https://ai-pizza-judge.vercel.app/)
   The worlds best* pizza critic judging the pizza without even having any taste buds 
 
