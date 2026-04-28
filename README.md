@@ -2,12 +2,12 @@
 
 **Analytics & Automation Leader | Building on AI**
 
-Welcome to my GitHub! I'm a passionate data & ai professional with years of experience in business intelligence and automation, now diving deeper into the world of Artificial Intelligence. My toolkit is powered by **SQL**, **Python** and the **AZURE** Stack and I'm always eager to leverage data creatively.
+Welcome to my GitHub! I'm a passionate automation professional with years of experience in business intelligence and automation, now diving deeper into the world of Artificial Intelligence. My toolkit is powered by **SQL**, **Python** and the **AZURE** Stack and I'm always eager to leverage data creatively.
 
 ## 🚀 About Me
 
 - **Role:** AI & Automation Lead
-- **Skills:** SQL, Python, Azure
+- **Skills:** n8n, Power Automate, LLM, API, SQL, Power BI, Python
 - **Favorite Quote:**I have not failed. I've just found 10,000 ways that won't work. — Thomas Edison
 
 ## 🌱 Current Focus
