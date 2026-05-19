@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate automation professional with years of exp
 
 ## 🚀 About Me
 
-- **Skills:** n8n, Power Automate, LLM, API, SQL, Power BI, Python
+- **Skills:** n8n, LangFlow, AutoGen Studio,Flowise, Power Automate, LLM, API, SQL, Power BI, Python
 - **Favorite Quote:** I have not failed. I've just found 10,000 ways that won't work. — Thomas Edison
 
 ## 🌱 Current Focus
