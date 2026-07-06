@@ -23,10 +23,11 @@ Curious, experimental, and always open to new challenges!
 Unauthenticated visitors see a live demo with realistic mock data. Authenticated users see their real pipeline.
 
 - [Automation Advisor](https://github.com/Abic7/AutomationAdvisor)
-  The worlds best* pizza critic judging the pizza without even having any taste buds 
+  An intelligent LangGraph agent that transforms business process descriptions into actionable automation recommendations with quantified ROI.
+
 
 - [Pizza Judge](https://ai-pizza-judge.vercel.app/)
-  An intelligent LangGraph agent that transforms business process descriptions into actionable automation recommendations with quantified ROI.
+  The worlds best* pizza critic judging the pizza without even having any taste buds 
 
 - [FinBuddy](https://github.com/Abic7/finbuddy_agents)
   FinBuddy is a modular, multi-agent, LLM-powered financial analysis system designed to transform raw banking transaction files into categorized data, behavioral insights, personalized recommendations.
