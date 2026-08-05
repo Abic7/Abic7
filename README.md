@@ -24,9 +24,12 @@ Curious, experimental, and always open to new challenges!
 - [RedundancyAI](https://github.com/Abic7/RedundancyAI)
   Open Source RAG Chatbot for Australian Redundancy Entitlements.
 
+- [LocalRAG](https://github.com/Abic7/local-rag-n8n-lmstudio)
+  A fully local RAG (Retrieval-Augmented Generation) pipeline built in n8n, running entirely against LM Studio no cloud API, no per-query cost, no data leaving the machine.
+
 - [Job Hunt AI](https://job-tracking-ai.vercel.app/)
   A full-stack, production-deployed dashboard that automatically tracks your job search in real time. Emails from your Gmail inbox are processed twice daily by Claude AI, classified into pipeline stages, and written to Google Sheets with zero manual data entry.
-Unauthenticated visitors see a live demo with realistic mock data. Authenticated users see their real pipeline.
+  Unauthenticated visitors see a live demo with realistic mock data. Authenticated users see their real pipeline.
 
 - [Pizza Judge](https://ai-pizza-judge.vercel.app/)
   The worlds best* pizza critic judging the pizza without even having any taste buds 
