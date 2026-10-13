@@ -1,12 +1,13 @@
 # Hi there, I'm Abi 👋
 
-**AI, Automation & Analytics Leader | Building on AI**
+**Sr AI Engineer, | Building on Power Platform & Azure**
 
-Welcome to my GitHub! I'm a passionate automation professional with years of experience in business intelligence and automation, now diving deeper into the world of Artificial Intelligence. My toolkit is powered by **n8n**, **Power Automate**, **LLM's** Stack and I'm always eager to leverage data creatively.
+Welcome to my GitHub! I'm a passionate automation professional with years of experience in data & automation, now diving deeper into the world of Artificial Intelligence. My toolkit is powered by **Power Platform**,**Azure**, **n8n** & **Open LLM's** Stack and I'm always eager to leverage data creatively.
 
 ## 🚀 About Me
 
-- **Skills:** n8n, LangFlow, AutoGen Studio,Flowise, Power Automate, LLM, API, SQL, Power BI, Python
+- **Skills:** Power Platform & Azure Services, n8n, LangFlow, AutoGen Studio, Flowise, Open LLM, API, SQL, Power BI, Python
+- 
 - **Favorite Quote:** I have not failed. I've just found 10,000 ways that won't work. — Thomas Edison
 
 ## 🌱 Current Focus
